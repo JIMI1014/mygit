@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/JIMI1014/test.git
+[submodule "hello-algo"]
+	path = hello-algo
+	url = https://github.com/krahets/hello-algo.git
